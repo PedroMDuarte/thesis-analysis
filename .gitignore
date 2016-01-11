@@ -1,3 +1,7 @@
+*.tgz
+*.tar.gz
+*.zip
+
 analyze.o
 basler.o
 probe.o
